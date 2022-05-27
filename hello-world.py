@@ -1,2 +1,5 @@
 def github_complete():
-  print("Completed")
+  return "Completed"
+
+# run function and print out return
+print(gihub_complete())
